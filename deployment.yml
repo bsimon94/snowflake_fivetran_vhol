@@ -1,5 +1,5 @@
 # choose the version of dbt that will run the project
-dbt_version: '1.8.4'
+dbt_version: '1.9.1'
 
 jobs:
 # Give each job a unique name. The name will be displayed in the Fivetran dashboard once your jobs are imported.
